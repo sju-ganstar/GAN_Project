@@ -18,3 +18,4 @@
 # PPT 넣을 내용
  - Rouge 등 : https://www.slideshare.net/cozyhous/text-summarization-78625791
  - Rouge 이론 : https://lovit.github.io/nlp/2019/05/01/krwordrank_sentence/
+ - 논문 전반적인 flow 다! : http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01219123&language=ko_KR#none
