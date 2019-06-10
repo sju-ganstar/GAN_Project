@@ -11,4 +11,9 @@
 # 진행 방향
 1. Pointer generator로 주제 찾기를 해보고 안되면
 2. 3줄요약을 쓰되 평가척도를 찾기
- - f1-measure 어떻게 이용하는지 확실히 알아보기!
+ - Rouge 어떻게 이용하는지 확실히 알아보기!
+
+<br>
+
+# PPT 넣을 내용
+ - Rouge 등 : https://www.slideshare.net/cozyhous/text-summarization-78625791
