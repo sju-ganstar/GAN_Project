@@ -17,3 +17,4 @@
 
 # PPT 넣을 내용
  - Rouge 등 : https://www.slideshare.net/cozyhous/text-summarization-78625791
+ - Rouge 이론 : https://lovit.github.io/nlp/2019/05/01/krwordrank_sentence/
