@@ -19,3 +19,4 @@
  - Rouge 등 : https://www.slideshare.net/cozyhous/text-summarization-78625791
  - Rouge 이론 : https://lovit.github.io/nlp/2019/05/01/krwordrank_sentence/
  - 논문 전반적인 flow 다! : http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01219123&language=ko_KR#none
+ - Rouge 평가를 위한 Reference Summary는 대부분 사람에 의해 작성된다.. ㄷㄷ : http://kavita-ganesan.com/what-is-rouge-and-how-it-works-for-evaluation-of-summaries/#.XP5oMVUzbcs
